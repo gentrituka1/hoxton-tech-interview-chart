@@ -63,7 +63,7 @@ function App() {
         name: event.target.name.value,
         submissions: {
           beavers: Number(event.target.beavers.value),
-          stars: Number(event.target.stars.value),
+          stars: Number(event.target.stars.value)
         }
       }
 
